@@ -2,30 +2,54 @@
 
 Trainingsdaten — Kraft, Laufen, Radfahren.
 
-## sessions.csv
+## sessions.jsonl
 
-Eine Zeile pro Satz.
+Ein JSON-Objekt pro Zeile, eine Zeile pro Session. Neue Session = genau eine neue Zeile, dadurch bleiben die Diffs lesbar.
 
-| Spalte | Bedeutung |
+```json
+{
+  "date": "2026-10-26",
+  "session": "A",
+  "duration_min": 75,
+  "exercises": [
+    {
+      "exercise": "Back Squat",
+      "sets": [
+        {"set": 1, "weight_kg": 50, "reps": 5, "unit": "kg", "note": "hart aber durch"}
+      ]
+    }
+  ]
+}
+```
+
+### Felder
+
+| Feld | Bedeutung |
 |---|---|
-| `date` | ISO-Datum der Einheit |
+| `date` | ISO-Datum |
 | `session` | `A` (Squat + Press), `B` (Deadlift + Bench), `CARDIO` |
-| `exercise` | Übungsname |
-| `set_no` | Satznummer innerhalb der Übung |
-| `weight_kg` | Gesamtgewicht in kg; leer bei Körpergewicht oder Band |
-| `reps` | Wiederholungen in diesem Satz |
-| `unit` | `kg`, `bodyweight`, `band`, `min`, `km` |
-| `note` | Freitext |
+| `duration_min` | optional, Gesamtdauer |
+| `exercises[].exercise` | Übungsname |
+| `exercises[].sets[].set` | Satznummer |
+| `exercises[].sets[].weight_kg` | Gesamtgewicht; fehlt bei Körpergewicht oder Band |
+| `exercises[].sets[].reps` | Wiederholungen in diesem Satz |
+| `exercises[].sets[].unit` | `kg`, `bodyweight`, `band`, `min`, `km` |
+| `exercises[].sets[].note` | optional, Freitext |
 
 Einarmige Übungen: `weight_kg` ist das Gewicht pro Hantel, `reps` gilt pro Seite (steht in `note`).
 Kurzhantel-Bankdrücken: `weight_kg` ist die Summe beider Hanteln.
 
+### Einlesen
+
+```python
+import pandas as pd, json
+sessions = [json.loads(l) for l in open("sessions.jsonl")]
+sets = pd.json_normalize(sessions, ["exercises", "sets"], ["date", "session"],
+                         meta_prefix="", record_prefix="")
+```
+
 ## Plan
 
-Zwei Krafteinheiten pro Woche, dazu eine Laufeinheit und eine Radrunde.
+Der aktuelle Plan mit Gewichten, Progression und Technik-Cues steht in [`plan.md`](plan.md).
 
-**Session A** — Back/Front Squat 4×5 · Strict Press 3×6 · Hip Thrusts 3×10 · DB Rows einarmig 3×10 · Core (Dead Bug, Pallof Press)
-
-**Session B** — Deadlift 4×5 · Bench Press 3×6 · Pull-ups 6×2 mit Band (Scapula Pull-ups davor) · Walking Lunges 3×10/Seite · Face Pulls 3×15
-
-Progression: alle Sätze sauber → Oberkörper Double Progression (3×6 → 3×8, dann +2,5 kg), Unterkörper +5 kg. Zweimal dasselbe Gewicht verfehlt → 10 % runter.
+Kontext zur Arbeitsweise — wie geloggt wird, wie gecoacht wird, was offen ist — in [`CLAUDE.md`](CLAUDE.md).
