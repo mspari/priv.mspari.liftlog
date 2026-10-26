@@ -1,0 +1,148 @@
+date,session,exercise,set_no,weight_kg,reps,unit,note
+2026-08-31,A,Front Squat,1,30,5,kg,
+2026-08-31,A,Front Squat,2,30,5,kg,
+2026-08-31,A,Front Squat,3,30,5,kg,Gewicht passend
+2026-08-31,A,Strict Press,1,20,5,kg,
+2026-08-31,A,Strict Press,2,20,5,kg,
+2026-08-31,A,Strict Press,3,20,5,kg,
+2026-08-31,A,Strict Press,4,20,5,kg,Rumpf limitierend
+2026-08-31,A,Bulgarian Split Squat,1,10,8,kg,Hoehe 2 / 2x5kg DB / pro Seite
+2026-08-31,A,Bulgarian Split Squat,2,10,8,kg,pro Seite
+2026-08-31,A,Bulgarian Split Squat,3,10,8,kg,pro Seite
+2026-08-31,A,WOD DB Snatch,1,7.5,,kg,6min AMRAP 6 Snatches + 6 Leg Lowers / zu leicht
+2026-09-07,B,Deadlift,1,40,5,kg,
+2026-09-07,B,Deadlift,2,40,5,kg,
+2026-09-07,B,Deadlift,3,40,5,kg,
+2026-09-07,B,Bench Press,1,20,6,kg,2x10kg DB
+2026-09-07,B,Bench Press,2,20,6,kg,2x10kg DB
+2026-09-07,B,Bench Press,3,20,6,kg,2x10kg DB
+2026-09-07,B,Bench Press,4,20,6,kg,2x10kg DB
+2026-09-07,B,DB Row,1,10,10,kg,pro Seite / in Bench-Pause
+2026-09-07,B,Pull-up,1,,1,bodyweight,erste freie Wiederholung
+2026-09-07,B,Pull-up,2,,3,band,2s exzentrisch
+2026-09-07,B,Pull-up,3,,3,band,2s exzentrisch
+2026-09-07,B,Pull-up,4,,3,band,2s exzentrisch
+2026-09-10,A,Back Squat,1,40,5,kg,gestresst / nicht am Limit
+2026-09-10,A,Back Squat,2,40,5,kg,
+2026-09-10,A,Back Squat,3,40,5,kg,
+2026-09-12,CARDIO,Rennrad,1,,,km,33.7km / 1:26:30 / 137hm / 23.4kmh / 87W
+2026-09-15,B,Deadlift,1,45,5,kg,
+2026-09-15,B,Deadlift,2,45,5,kg,
+2026-09-15,B,Deadlift,3,45,5,kg,
+2026-09-15,B,Bench Press,1,25,6,kg,Langhantel
+2026-09-15,B,Bench Press,2,25,6,kg,
+2026-09-15,B,Bench Press,3,25,6,kg,
+2026-09-15,B,Bench Press,4,25,6,kg,
+2026-09-15,B,DB Row,1,7.5,10,kg,pro Seite / in Bench-Pause
+2026-09-15,B,Pull-up,1,,2,band,duennes Band / Scapula-Start
+2026-09-15,B,Pull-up,2,,2,band,
+2026-09-15,B,Pull-up,3,,2,band,
+2026-09-15,B,Pull-up,4,,2,band,
+2026-09-15,B,Pull-up,5,,2,band,
+2026-09-15,B,Pull-up,6,,2,band,
+2026-09-17,CARDIO,Laufen,1,,,min,5x(3min/1min) / 15min Laufanteil / ca 7:12 pro km
+2026-09-18,A,Back Squat,1,45,5,kg,letzte 2 Wdh hart
+2026-09-18,A,Back Squat,2,45,5,kg,
+2026-09-18,A,Back Squat,3,45,5,kg,
+2026-09-18,A,Back Squat,4,45,5,kg,
+2026-09-18,A,Strict Press,1,20,5,kg,
+2026-09-18,A,Strict Press,2,20,5,kg,
+2026-09-18,A,Strict Press,3,20,5,kg,
+2026-09-18,A,Strict Press,4,20,5,kg,
+2026-09-18,A,Hip Thrust,1,25,12,kg,
+2026-09-18,A,Hip Thrust,2,25,12,kg,
+2026-09-18,A,Hip Thrust,3,25,12,kg,
+2026-10-01,B,Deadlift,1,45,5,kg,erste Session nach Urlaub
+2026-10-01,B,Deadlift,2,45,5,kg,
+2026-10-01,B,Deadlift,3,45,5,kg,
+2026-10-01,B,Bench Press,1,25,6,kg,Langhantel
+2026-10-01,B,Bench Press,2,25,6,kg,
+2026-10-01,B,Bench Press,3,25,6,kg,
+2026-10-01,B,Bench Press,4,25,6,kg,
+2026-10-01,B,DB Row,1,7.5,10,kg,pro Seite
+2026-10-01,B,Pull-up,1,,2,band,Scapula-Start
+2026-10-01,B,Pull-up,2,,2,band,
+2026-10-01,B,Pull-up,3,,2,band,
+2026-10-01,B,Pull-up,4,,2,band,
+2026-10-01,B,Pull-up,5,,2,band,
+2026-10-01,B,Pull-up,6,,2,band,
+2026-10-05,A,Front Squat,1,30,5,kg,haette schwerer sein koennen
+2026-10-05,A,Front Squat,2,30,5,kg,
+2026-10-05,A,Front Squat,3,30,5,kg,
+2026-10-05,A,Front Squat,4,30,5,kg,
+2026-10-05,A,Strict Press,1,20,5,kg,Nacken unangenehm
+2026-10-05,A,Strict Press,2,20,5,kg,
+2026-10-05,A,Strict Press,3,20,5,kg,
+2026-10-05,A,Strict Press,4,20,5,kg,
+2026-10-05,A,Hip Thrust,1,25,12,kg,Bank mit Scheiben fixiert
+2026-10-05,A,Hip Thrust,2,25,12,kg,
+2026-10-05,A,Hip Thrust,3,25,12,kg,
+2026-10-14,B,Deadlift,1,45,5,kg,reduziert nach Infekt
+2026-10-14,B,Deadlift,2,45,5,kg,
+2026-10-14,B,Deadlift,3,45,5,kg,
+2026-10-14,B,Bench Press,1,25,6,kg,
+2026-10-14,B,Bench Press,2,25,6,kg,
+2026-10-14,B,Bench Press,3,25,6,kg,
+2026-10-14,B,Ring Row,1,,10,bodyweight,hart / hintere Schulter spuerbar
+2026-10-14,B,Ring Row,2,,10,bodyweight,
+2026-10-14,B,Ring Row,3,,10,bodyweight,
+2026-10-14,B,Pull-up,1,,2,band,Scapula-Start
+2026-10-14,B,Pull-up,2,,2,band,
+2026-10-14,B,Pull-up,3,,2,band,
+2026-10-14,B,Pull-up,4,,2,band,
+2026-10-19,A,Back Squat,1,45,5,kg,Druck eher ueber Zehen als Fersen
+2026-10-19,A,Back Squat,2,45,5,kg,
+2026-10-19,A,Back Squat,3,45,5,kg,
+2026-10-19,A,Back Squat,4,45,5,kg,
+2026-10-19,A,Strict Press,1,20,6,kg,relativ leicht / Position gehalten
+2026-10-19,A,Strict Press,2,20,6,kg,
+2026-10-19,A,Strict Press,3,20,6,kg,
+2026-10-19,A,DB Row Brustauflage,1,25,,kg,2x12.5kg zu schwer
+2026-10-19,A,DB Row Brustauflage,2,20,10,kg,2x10kg / kaum gespuert
+2026-10-19,A,DB Row einarmig,1,10,10,kg,pro Seite / deutlich besser
+2026-10-19,A,Dead Bug,1,,8,bodyweight,pro Seite / Nacken verkrampft
+2026-10-19,A,Dead Bug,2,,8,bodyweight,pro Seite
+2026-10-19,A,Dead Bug,3,,8,bodyweight,pro Seite
+2026-10-19,A,Pallof Press,1,,8,band,pro Seite
+2026-10-19,A,Pallof Press,2,,8,band,pro Seite
+2026-10-19,A,Pallof Press,3,,8,band,pro Seite
+2026-10-21,CARDIO,Laufen,,,,,ausgefallen
+2026-10-22,B,Deadlift,1,50,5,kg,hochgetastet
+2026-10-22,B,Deadlift,2,55,5,kg,
+2026-10-22,B,Deadlift,3,60,5,kg,
+2026-10-22,B,Deadlift,4,60,5,kg,nah am Limit / 0-1 RIR
+2026-10-22,B,Bench Press,1,25,6,kg,
+2026-10-22,B,Bench Press,2,30,6,kg,
+2026-10-22,B,Bench Press,3,30,6,kg,
+2026-10-22,B,Pull-up,1,,3,band,Scapula-Start
+2026-10-22,B,Pull-up,2,,3,band,
+2026-10-22,B,Pull-up,3,,3,band,
+2026-10-22,B,Pull-up,4,,3,band,
+2026-10-22,B,Pull-up,5,,3,band,
+2026-10-22,B,Pull-up,6,,2,band,letzte Wdh nicht geschafft
+2026-10-22,B,Walking Lunge,1,,10,bodyweight,pro Seite / sehr leicht
+2026-10-22,B,Walking Lunge,2,,10,bodyweight,pro Seite
+2026-10-22,B,Walking Lunge,3,,10,bodyweight,pro Seite
+2026-10-22,B,Face Pull,1,,15,band,schnell gemacht
+2026-10-22,B,Face Pull,2,,15,band,
+2026-10-22,B,Face Pull,3,,15,band,
+2026-10-24,CARDIO,Rennrad,1,,,min,1:26h
+2026-10-26,A,Back Squat,1,50,5,kg,hart aber durch / Video
+2026-10-26,A,Back Squat,2,50,5,kg,
+2026-10-26,A,Back Squat,3,50,5,kg,
+2026-10-26,A,Back Squat,4,50,5,kg,
+2026-10-26,A,Strict Press,1,20,8,kg,Video / Position sauber
+2026-10-26,A,Strict Press,2,20,8,kg,
+2026-10-26,A,Strict Press,3,20,8,kg,letzter Satz hart
+2026-10-26,A,Hip Thrust,1,25,10,kg,
+2026-10-26,A,Hip Thrust,2,30,10,kg,
+2026-10-26,A,Hip Thrust,3,30,10,kg,
+2026-10-26,A,DB Row einarmig,1,10,10,kg,pro Seite
+2026-10-26,A,DB Row einarmig,2,10,10,kg,pro Seite
+2026-10-26,A,DB Row einarmig,3,10,10,kg,pro Seite
+2026-10-26,A,Dead Bug,1,,8,bodyweight,pro Seite
+2026-10-26,A,Dead Bug,2,,8,bodyweight,pro Seite
+2026-10-26,A,Dead Bug,3,,8,bodyweight,pro Seite
+2026-10-26,A,Pallof Press,1,,8,band,pro Seite
+2026-10-26,A,Pallof Press,2,,8,band,pro Seite
+2026-10-26,A,Pallof Press,3,,8,band,pro Seite
