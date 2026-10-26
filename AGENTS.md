@@ -9,9 +9,13 @@ Wer dieses Repo liest, soll ohne Chatverlauf weiterarbeiten können: `plan.md` s
 | Datei | Inhalt |
 |---|---|
 | `plan.md` | Aktueller Plan, Gewichte für die nächste Einheit, Progression, Cardio, Nacken-Routine, Ernährung, Technik-Cues, offene Punkte |
+| `decisions.md` | Warum der Plan so aussieht. Was schon einmal anders war und woran es gescheitert ist |
 | `sessions.jsonl` | Die Daten. Ein JSON-Objekt pro Zeile, eine Zeile pro Session |
+| `validate.py` | Prüft `sessions.jsonl` gegen das Schema |
 | `README.md` | Schema und Einlese-Beispiel |
 | `CLAUDE.md` | Nur ein Verweis auf diese Datei |
+
+**Beim Übernehmen:** diese Datei, dann `plan.md`, dann `decisions.md`. Die letzten paar Zeilen von `sessions.jsonl` zeigen, wo sie gerade steht. Bevor etwas am Plan geändert wird, in `decisions.md` nachlesen — die meisten naheliegenden Verbesserungsideen wurden schon einmal probiert.
 
 ## Zur Person
 
@@ -45,6 +49,7 @@ Deutsch, per du, ohne Marketing-Ton.
 - **Freitext in `note`**, nah an ihren Worten ("hart aber durch", "letzte Wdh nicht geschafft"). Das sind später die wertvollsten Einträge
 - **Ausgefallene Einheiten werden nicht geloggt.** Das Log enthält, was stattgefunden hat
 - **Plan ändern heißt `plan.md` ändern**, nie rückwirkend die Daten. Alte Gewichte bleiben als Realität im Log stehen
+- **Vor dem Commit `python3 validate.py` laufen lassen.** Prüft Schema, Datumsreihenfolge und Doppeleinträge
 
 ## Commits
 
