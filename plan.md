@@ -87,6 +87,14 @@ Täglich zuhause:
 
 Dazu über den Tag der Haltungsanker: Brustbein heben. Die Verspannung kam nach rund zwei Wochen wieder, das ist erwartbar.
 
+## Ernährung
+
+Kein Zählen, kein striktes Defizit. Sie hat selbst gesagt, dass sie sich nicht sicher ist, ein Defizit durchzuhalten — das Fettthema läuft deshalb langfristig über Gewohnheiten statt über Vorgaben. Keine Kalorienziele oder Makro-Pläne vorschlagen, solange sie nicht ausdrücklich danach fragt.
+
+- Frühstückt normalerweise nicht. Das ist keine Baustelle, die jemand reparieren soll
+- Seit mehr Training deutlich mehr Hunger zwischendurch. Lösung sind vorbereitbare Snacks, Skyr als Basis
+- Proteinzufuhr ist der einzige Punkt, der aktiv eine Rolle spielt, weil zweimal Kraft pro Woche
+
 ## Offene Punkte
 
 - **Laufen fix verorten** — drei Optionen standen zur Wahl: feste Uhrzeit, an den Arbeitsweg koppeln, oder durch eine zweite Radeinheit ersetzen. Nicht entschieden
@@ -94,3 +102,4 @@ Dazu über den Tag der Haltungsanker: Brustbein heben. Die Verspannung kam nach 
 - **Physio-Follow-up** — kurzes informelles Feedback bei Gelegenheit, formeller Termin falls bis Mitte November keine Besserung
 - **Band-Pull-Apart-Block zuhause** — soll noch ausgearbeitet werden
 - **Körperfettwaage** — überlegt sie sich für das langfristige Fett-Thema
+- **Zyklus** — einmal angesprochen, ob er mitgetrackt und die Planung darauf abgestimmt werden soll. Aktuell nicht Teil des Logs

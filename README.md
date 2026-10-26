@@ -52,4 +52,4 @@ sets = pd.json_normalize(sessions, ["exercises", "sets"], ["date", "session"],
 
 Der aktuelle Plan mit Gewichten, Progression und Technik-Cues steht in [`plan.md`](plan.md).
 
-Kontext zur Arbeitsweise — wie geloggt wird, wie gecoacht wird, was offen ist — in [`CLAUDE.md`](CLAUDE.md).
+Kontext zur Arbeitsweise — wie geloggt wird, wie gecoacht wird, was offen ist — in [`AGENTS.md`](AGENTS.md).
