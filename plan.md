@@ -102,4 +102,4 @@ Kein Zählen, kein striktes Defizit. Sie hat selbst gesagt, dass sie sich nicht 
 - **Physio-Follow-up** — kurzes informelles Feedback bei Gelegenheit, formeller Termin falls bis Mitte November keine Besserung
 - **Band-Pull-Apart-Block zuhause** — soll noch ausgearbeitet werden
 - **Körperfettwaage** — überlegt sie sich für das langfristige Fett-Thema
-- **Zyklus** — einmal angesprochen, ob er mitgetrackt und die Planung darauf abgestimmt werden soll. Aktuell nicht Teil des Logs
+- ~~**Zyklus**~~ — entschieden am 29.10.: wird in der Session-`note` vermerkt, wenn sie es erwähnt. Der Plan wird nicht danach umgebaut

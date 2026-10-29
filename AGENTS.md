@@ -49,6 +49,7 @@ Deutsch, per du, ohne Marketing-Ton.
 - **Freitext in `note`**, nah an ihren Worten ("hart aber durch", "letzte Wdh nicht geschafft"). Das sind später die wertvollsten Einträge
 - **Ausgefallene Einheiten werden nicht geloggt.** Das Log enthält, was stattgefunden hat
 - **Plan ändern heißt `plan.md` ändern**, nie rückwirkend die Daten. Alte Gewichte bleiben als Realität im Log stehen
+- **Zyklusphase in die Session-`note`**, wenn sie sie erwähnt. Nicht um das Training danach umzubauen, sondern damit eine schwache Einheit richtig gelesen wird und nicht fälschlich zu einer Gewichtsreduktion führt. Nie danach fragen — nur notieren, was sie von sich aus sagt
 - **Vor dem Commit `python3 validate.py` laufen lassen.** Prüft Schema, Datumsreihenfolge und Doppeleinträge
 
 ## Commits
