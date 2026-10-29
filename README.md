@@ -29,6 +29,7 @@ Ein JSON-Objekt pro Zeile, eine Zeile pro Session. Neue Session = genau eine neu
 | `date` | ISO-Datum |
 | `session` | `A` (Squat + Press), `B` (Deadlift + Bench), `CARDIO` |
 | `duration_min` | optional, Gesamtdauer |
+| `note` | optional, Freitext zur ganzen Session (Tagesform, Abweichungen vom Plan) |
 | `exercises[].exercise` | Übungsname |
 | `exercises[].sets[].set` | Satznummer |
 | `exercises[].sets[].weight_kg` | Gesamtgewicht; fehlt bei Körpergewicht oder Band |

@@ -14,6 +14,7 @@ from datetime import date
 SESSIONS = {"A", "B", "CARDIO"}
 UNITS = {"kg", "bodyweight", "band", "min", "km"}
 SET_KEYS = {"set", "weight_kg", "reps", "unit", "note"}
+SESSION_KEYS = {"date", "session", "duration_min", "note", "exercises"}
 
 
 def check(path):
@@ -60,6 +61,13 @@ def check(path):
 
             if "duration_min" in s and not isinstance(s["duration_min"], (int, float)):
                 bad(n, "duration_min ist keine Zahl")
+
+            if "note" in s and not isinstance(s["note"], str):
+                bad(n, "note ist kein Text")
+
+            unknown_top = set(s) - SESSION_KEYS
+            if unknown_top:
+                bad(n, f"unbekannte Felder auf Session-Ebene: {sorted(unknown_top)}")
 
             exercises = s.get("exercises")
             if not isinstance(exercises, list) or not exercises:
