@@ -87,6 +87,31 @@ Täglich zuhause:
 
 Dazu über den Tag der Haltungsanker: Brustbein heben. Die Verspannung kam nach rund zwei Wochen wieder, das ist erwartbar.
 
+## Büro-Block
+
+Gegenprogramm zum vielen Sitzen. Rund 20 Minuten, als eigene Einheit an einem lockeren Tag oder in Teilen über die Woche verteilt. Hängt direkt mit dem Nacken zusammen: eine steife Brustwirbelsäule zwingt die Halswirbelsäule zum Ausgleichen.
+
+**Mobilisation — aufmachen, was zugeht**
+
+| Übung | Dosierung | Zweck |
+|---|---|---|
+| BWS-Extension über die Rolle | 4 Positionen, je 5 Wdh | Brustwirbelsäule in die Streckung. Der wichtigste Punkt |
+| Brustöffner im Türrahmen | 2× 30 s/Seite | Gegen "vorne verkürzt" |
+| Open Book im Seitenliegen | 8×/Seite | Rotation der Brustwirbelsäule |
+| Hüftbeuger im Halbkniestand | 2× 30 s/Seite | Vom Sitzen verkürzt |
+| Knie-zur-Wand | 10×/Seite | Sprunggelenk. Siehe Technik-Cues Squat |
+
+**Kräftigung — wach machen, was träge wird**
+
+| Übung | Dosierung | Zweck |
+|---|---|---|
+| Band Pull Aparts | 3×15 | Zugseite, Schulterblatt |
+| Face Pulls | 3×15 leicht | Äußere Rotation, hintere Schulter |
+| Wall Slides oder Prone Y | 2×10 | Unterer Trapez, Schulterblattkontrolle |
+| Glute Bridges | 2×12, oben halten | Gesäß gegen das Sitzen |
+
+Dazu die Kraftübung vom Physio und die Rippen-Mobilisation.
+
 ## Ernährung
 
 Kein Zählen, kein striktes Defizit. Sie hat selbst gesagt, dass sie sich nicht sicher ist, ein Defizit durchzuhalten — das Fettthema läuft deshalb langfristig über Gewohnheiten statt über Vorgaben. Keine Kalorienziele oder Makro-Pläne vorschlagen, solange sie nicht ausdrücklich danach fragt.
@@ -100,6 +125,6 @@ Kein Zählen, kein striktes Defizit. Sie hat selbst gesagt, dass sie sich nicht 
 - **Laufen fix verorten** — drei Optionen standen zur Wahl: feste Uhrzeit, an den Arbeitsweg koppeln, oder durch eine zweite Radeinheit ersetzen. Nicht entschieden
 - **Gym-Tag Montag → Dienstagvormittag?** Montags liegt zunehmend die Coaching-Session mit ihrem Freund. Sie ist kein Vormittagsmensch, deshalb offen
 - **Physio-Follow-up** — kurzes informelles Feedback bei Gelegenheit, formeller Termin falls bis Mitte November keine Besserung
-- **Band-Pull-Apart-Block zuhause** — soll noch ausgearbeitet werden
+- ~~**Band-Pull-Apart-Block zuhause**~~ — ausgearbeitet am 12.11. als Büro-Block, siehe oben
 - **Körperfettwaage** — überlegt sie sich für das langfristige Fett-Thema
 - ~~**Zyklus**~~ — entschieden am 29.10.: wird in der Session-`note` vermerkt, wenn sie es erwähnt. Der Plan wird nicht danach umgebaut
