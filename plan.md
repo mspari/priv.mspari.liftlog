@@ -67,7 +67,8 @@ Einer pro Übung, nicht mehr.
 - **Strict Press** — Rippen zu, bevor die Stange losgeht. Das frühere Hohlkreuz war Ansteuerung, kein Kraftdefizit, und ist seit 26.10. sauber
 - **Deadlift** — Spannung über den Lat aufbauen, bevor die Stange sich bewegt. Dass sie es primär im unteren Rücken spürt, ist bei ihrer Hebelage erwartbar
 - **Pull-up** — zuerst zwei bewusste Scapula-Wiederholungen, dann erst ziehen. Ohne das übernehmen die Arme
-- **Ring Row / DB Row** — wenn sie es im hinteren Oberarm spürt statt hinten an der Schulter, ist es Ansteuerung: Schulterblatt zuerst, Arm zuletzt
+- **DB Row** — Ellbogen nach hinten Richtung Hosentasche, nicht senkrecht nach oben. Sie hat die Rows ein Jahr lang nach oben gezogen und deshalb nie im Rücken gespürt; mit der korrigierten Zugrichtung (16.11.) sofort "komplett anders spürbar". Nach oben ziehen belastet den oberen Trapez, also genau ihr Nackenproblem
+- **Latzug** — Schultern weg von den Ohren, dann erst ziehen. Dieselbe Logik wie bei der Row
 
 ## Ausdauer
 
