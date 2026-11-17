@@ -63,7 +63,7 @@ Walking Lunges passen in die Pausen des Pull-up-Blocks. Scapula Pull-ups kommen 
 
 Einer pro Übung, nicht mehr.
 
-- **Back Squat** — ganzer Fuß am Boden, nichts hebt ab. *Nicht* "über die Fersen drücken": damit hat sie das Gefühl, nach hinten zu kippen. Butterwink am Ende der Bewegung ist bei ihrer Tiefe unauffällig und braucht keine Korrektur
+- **Back Squat** — ganzer Fuß am Boden, nichts hebt ab. Sprunggelenks-Beweglichkeit am 17.11. mit Knie-zur-Wand getestet: unauffällig, beidseitig. Schwierigkeiten aus der tiefen Position sind also Kraft und Ansteuerung in der aufrechteren Position, keine Mobilität — nicht erneut dort suchen. *Nicht* "über die Fersen drücken": damit hat sie das Gefühl, nach hinten zu kippen. Butterwink am Ende der Bewegung ist bei ihrer Tiefe unauffällig und braucht keine Korrektur
 - **Strict Press** — Rippen zu, bevor die Stange losgeht. Das frühere Hohlkreuz war Ansteuerung, kein Kraftdefizit, und ist seit 26.10. sauber
 - **Deadlift** — Spannung über den Lat aufbauen, bevor die Stange sich bewegt. Dass sie es primär im unteren Rücken spürt, ist bei ihrer Hebelage erwartbar
 - **Pull-up** — zuerst zwei bewusste Scapula-Wiederholungen, dann erst ziehen. Ohne das übernehmen die Arme
